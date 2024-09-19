@@ -1,6 +1,3 @@
-Claro! Vou adaptar o README para o **TanatoCheck**, mantendo as informações relevantes e ajustando o foco para o novo projeto.
-
----
 
 # TanatoCheck
 
