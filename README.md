@@ -36,8 +36,9 @@ TanatoCheck is a practical solution for professionals in the field of thanatopra
 ### Tela de Registro de Corpos / Body Registration Screen
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/Jonemanuel/TanatoCheck/blob/main/assets/readme/tela2.jpeg" alt="Body Registration Screen 1" width="300"/>
   <img src="https://github.com/Jonemanuel/TanatoCheck/blob/main/assets/readme/WhatsApp Image 2024-09-19 at 15.02.18 (2).jpeg" alt="Body Registration Screen 2" width="300"/>
+  <img src="https://github.com/Jonemanuel/TanatoCheck/blob/main/assets/readme/tela2.jpeg" alt="Body Registration Screen 1" width="300"/>
+  
 </div>
 
 ### Tela de Relatórios / Reports Screen
